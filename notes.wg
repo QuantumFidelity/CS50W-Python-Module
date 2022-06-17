@@ -1,0 +1,472 @@
+WordGrinder dumpfile v3: this is a text file; diff me!
+.addons.autosave.enabled: false
+.addons.autosave.pattern: "%F.autosave.%T.wg"
+.addons.autosave.period: 10
+.addons.htmlexport.bold_off: "</b>"
+.addons.htmlexport.bold_on: "<b>"
+.addons.htmlexport.italic_off: "</i>"
+.addons.htmlexport.italic_on: "<i>"
+.addons.htmlexport.underline_off: "</u>"
+.addons.htmlexport.underline_on: "<u>"
+.addons.pagecount.enabled: false
+.addons.pagecount.wordsperpage: 250
+.addons.scrapbook.document: "Scrapbook"
+.addons.scrapbook.pattern: "Item from '%N' at %T:"
+.addons.scrapbook.timestamp: true
+.addons.smartquotes.doublequotes: false
+.addons.smartquotes.leftdouble: "“"
+.addons.smartquotes.leftsingle: "‘"
+.addons.smartquotes.notinraw: true
+.addons.smartquotes.rightdouble: "”"
+.addons.smartquotes.rightsingle: "’"
+.addons.smartquotes.singlequotes: false
+.addons.spellchecker.enabled: false
+.addons.spellchecker.usesystemdictionary: true
+.addons.spellchecker.useuserdictionary: true
+.documents.1.co: 5.0
+.documents.1.cp: 226
+.documents.1.cw: 18
+.documents.1.margin: 0
+.documents.1.name: "main"
+.documents.1.sticky_selection: false
+.documents.1.viewmode: 1
+.documents.1.wordcount: 2630
+.fileformat: 7.0
+.idletime: 3
+.menu.accelerators.BACKSPACE: "ZDPC"
+.menu.accelerators.DELETE: "ZDNC"
+.menu.accelerators.DOWN: "ZD"
+.menu.accelerators.EC: "^C"
+.menu.accelerators.ECadd: "^M"
+.menu.accelerators.ECfind: "^L"
+.menu.accelerators.EF: "^F"
+.menu.accelerators.EG: "^G"
+.menu.accelerators.EN: "^K"
+.menu.accelerators.END: "ZE"
+.menu.accelerators.EP: "^V"
+.menu.accelerators.ER: "^R"
+.menu.accelerators.ET: "^X"
+.menu.accelerators.Eredo: "^Y"
+.menu.accelerators.Eundo: "^Z"
+.menu.accelerators.FQ: "^Q"
+.menu.accelerators.FS: "^S"
+.menu.accelerators.HOME: "ZH"
+.menu.accelerators.LEFT: "ZL"
+.menu.accelerators.PGDN: "ZPGDN"
+.menu.accelerators.PGUP: "ZPGUP"
+.menu.accelerators.RIGHT: "ZR"
+.menu.accelerators.SB: "^B"
+.menu.accelerators.SDOWN: "ZSD"
+.menu.accelerators.SEND: "ZSE"
+.menu.accelerators.SHOME: "ZSH"
+.menu.accelerators.SI: "^I"
+.menu.accelerators.SLEFT: "ZSL"
+.menu.accelerators.SO: "^O"
+.menu.accelerators.SP: "^P"
+.menu.accelerators.SPGDN: "ZSPGDN"
+.menu.accelerators.SPGUP: "ZSPGUP"
+.menu.accelerators.SRIGHT: "ZSR"
+.menu.accelerators.SU: "^U"
+.menu.accelerators.SUP: "ZSU"
+.menu.accelerators.S^DOWN: "ZSNP"
+.menu.accelerators.S^LEFT: "ZSWL"
+.menu.accelerators.S^PGDN: "ZSED"
+.menu.accelerators.S^PGUP: "ZSBD"
+.menu.accelerators.S^RIGHT: "ZSWR"
+.menu.accelerators.S^UP: "ZSPP"
+.menu.accelerators.UP: "ZU"
+.menu.accelerators.ZBD: "^PGUP"
+.menu.accelerators.ZD: "DOWN"
+.menu.accelerators.ZDNC: "DELETE"
+.menu.accelerators.ZDPC: "BACKSPACE"
+.menu.accelerators.ZDW: "^E"
+.menu.accelerators.ZE: "END"
+.menu.accelerators.ZED: "^PGDN"
+.menu.accelerators.ZH: "HOME"
+.menu.accelerators.ZL: "LEFT"
+.menu.accelerators.ZM: "^@"
+.menu.accelerators.ZNP: "^DOWN"
+.menu.accelerators.ZPGDN: "PGDN"
+.menu.accelerators.ZPGUP: "PGUP"
+.menu.accelerators.ZPP: "^UP"
+.menu.accelerators.ZR: "RIGHT"
+.menu.accelerators.ZSBD: "S^PGUP"
+.menu.accelerators.ZSD: "SDOWN"
+.menu.accelerators.ZSE: "SEND"
+.menu.accelerators.ZSED: "S^PGDN"
+.menu.accelerators.ZSH: "SHOME"
+.menu.accelerators.ZSL: "SLEFT"
+.menu.accelerators.ZSNP: "S^DOWN"
+.menu.accelerators.ZSPGDN: "SPGDN"
+.menu.accelerators.ZSPGUP: "SPGUP"
+.menu.accelerators.ZSPP: "S^UP"
+.menu.accelerators.ZSR: "SRIGHT"
+.menu.accelerators.ZSU: "SUP"
+.menu.accelerators.ZSW: "^W"
+.menu.accelerators.ZSWL: "S^LEFT"
+.menu.accelerators.ZSWR: "S^RIGHT"
+.menu.accelerators.ZU: "UP"
+.menu.accelerators.ZWL: "^LEFT"
+.menu.accelerators.ZWR: "^RIGHT"
+.menu.accelerators.^@: "ZM"
+.menu.accelerators.^B: "SB"
+.menu.accelerators.^C: "EC"
+.menu.accelerators.^DOWN: "ZNP"
+.menu.accelerators.^E: "ZDW"
+.menu.accelerators.^F: "EF"
+.menu.accelerators.^G: "EG"
+.menu.accelerators.^I: "SI"
+.menu.accelerators.^K: "EN"
+.menu.accelerators.^L: "ECfind"
+.menu.accelerators.^LEFT: "ZWL"
+.menu.accelerators.^M: "ECadd"
+.menu.accelerators.^O: "SO"
+.menu.accelerators.^P: "SP"
+.menu.accelerators.^PGDN: "ZED"
+.menu.accelerators.^PGUP: "ZBD"
+.menu.accelerators.^Q: "FQ"
+.menu.accelerators.^R: "ER"
+.menu.accelerators.^RIGHT: "ZWR"
+.menu.accelerators.^S: "FS"
+.menu.accelerators.^U: "SU"
+.menu.accelerators.^UP: "ZPP"
+.menu.accelerators.^V: "EP"
+.menu.accelerators.^W: "ZSW"
+.menu.accelerators.^X: "ET"
+.menu.accelerators.^Y: "Eredo"
+.menu.accelerators.^Z: "Eundo"
+.name: "/home/mosfet/Documents/Academic/Harvard Web Design Framework Fundamentals/Python/notes.wg"
+.statusbar: true
+.styles.1.above: 0
+.styles.1.below: 0
+.styles.1.desc: "Plain text"
+.styles.1.firstindent: 4
+.styles.1.name: "P"
+.styles.2.above: 3
+.styles.2.below: 1
+.styles.2.desc: "Heading #1"
+.styles.2.name: "H1"
+.styles.3.above: 2
+.styles.3.below: 1
+.styles.3.desc: "Heading #2"
+.styles.3.name: "H2"
+.styles.4.above: 1
+.styles.4.below: 1
+.styles.4.desc: "Heading #3"
+.styles.4.name: "H3"
+.styles.5.above: 1
+.styles.5.below: 1
+.styles.5.desc: "Heading #4"
+.styles.5.name: "H4"
+.styles.6.above: 1
+.styles.6.below: 1
+.styles.6.desc: "Indented text"
+.styles.6.indent: 4
+.styles.6.name: "Q"
+.styles.7.above: 1
+.styles.7.below: 1
+.styles.7.bullet: "-"
+.styles.7.desc: "List item with bullet"
+.styles.7.indent: 4
+.styles.7.name: "LB"
+.styles.8.above: 1
+.styles.8.below: 1
+.styles.8.desc: "List item without bullet"
+.styles.8.indent: 4
+.styles.8.name: "L"
+.styles.9.above: 0
+.styles.9.below: 0
+.styles.9.desc: "Indented text, run together"
+.styles.9.indent: 4
+.styles.9.name: "V"
+.styles.10.above: 0
+.styles.10.below: 0
+.styles.10.desc: "Preformatted text"
+.styles.10.indent: 4
+.styles.10.name: "PRE"
+.styles.11.above: 0
+.styles.11.below: 0
+.styles.11.desc: "Raw data exported to output file"
+.styles.11.indent: 0
+.styles.11.name: "RAW"
+.styles.H1.above: 3
+.styles.H1.below: 1
+.styles.H1.desc: "Heading #1"
+.styles.H1.name: "H1"
+.styles.H2.above: 2
+.styles.H2.below: 1
+.styles.H2.desc: "Heading #2"
+.styles.H2.name: "H2"
+.styles.H3.above: 1
+.styles.H3.below: 1
+.styles.H3.desc: "Heading #3"
+.styles.H3.name: "H3"
+.styles.H4.above: 1
+.styles.H4.below: 1
+.styles.H4.desc: "Heading #4"
+.styles.H4.name: "H4"
+.styles.L.above: 1
+.styles.L.below: 1
+.styles.L.desc: "List item without bullet"
+.styles.L.indent: 4
+.styles.L.name: "L"
+.styles.LB.above: 1
+.styles.LB.below: 1
+.styles.LB.bullet: "-"
+.styles.LB.desc: "List item with bullet"
+.styles.LB.indent: 4
+.styles.LB.name: "LB"
+.styles.P.above: 0
+.styles.P.below: 0
+.styles.P.desc: "Plain text"
+.styles.P.firstindent: 4
+.styles.P.name: "P"
+.styles.PRE.above: 0
+.styles.PRE.below: 0
+.styles.PRE.desc: "Preformatted text"
+.styles.PRE.indent: 4
+.styles.PRE.name: "PRE"
+.styles.Q.above: 1
+.styles.Q.below: 1
+.styles.Q.desc: "Indented text"
+.styles.Q.indent: 4
+.styles.Q.name: "Q"
+.styles.RAW.above: 0
+.styles.RAW.below: 0
+.styles.RAW.desc: "Raw data exported to output file"
+.styles.RAW.indent: 0
+.styles.RAW.name: "RAW"
+.styles.V.above: 0
+.styles.V.below: 0
+.styles.V.desc: "Indented text, run together"
+.styles.V.indent: 4
+.styles.V.name: "V"
+.current: 1
+#1
+P Ref URL: https://cs50.harvard.edu/web/2020/notes/2/
+P 
+P Web Programming with Python and Java Script
+P 
+P Since I have already taken 600x through EdX this is hopefully just going to be a refresher for me and i'll be able to quickly pick back up after a week or so of programming in Python again. 
+P 
+P Table of contents
+P - Introduction 
+P - Python 
+P - Variables
+P - Formatting Strings
+P - Conditions
+P - Sequences
+P   - Strings
+P   - Lists
+P   - Tuples
+P   - Sets
+P   - Dictionaries
+P   - Loops
+P - Functions
+P - Modules
+P - Objects-Oriented Programming
+P - Functional Programming
+P  - Decorators
+P  - Lambda Functions
+P - Exceptions
+P 
+P Introduction 
+P So far, we've discussed how to build simple web pages using HTML and CSS, and how to use Git and GitHub in order to keep track of changes to our code and collaborate with others. 
+P Today, we'll dive into Python, one of the two main programming languages we'll use throughout this course. 
+P 
+P Python
+P 
+P - Python is a very powerful and widely-used language that will allow us to quickly build fairly complicated web applications. In this course, we'll be using Python 3, although Python 2 is still in use in some places. When looking at outside resources, be careful to make sure they're using the same version 
+P 
+P - Let's start where we start with many programming languages: Hello, world. This program, written in Python, would look like this
+P 
+P print("Hello, world!")
+P 
+P The above line is making use of what's known as a build in function in Python known as the print function. In most IDE's these built in functions will automatically highlight to a different color to indicate that it is a build in function in Python. It's worth mentioning that these words are therefor reserved and cannot be used as variable names for any functions that you would define as a programmer. 
+P 
+P Functions have the ability to take arguments in parentheses, and displays that argument on the command line.
+P 
+P When you type up your script and run in through your IDE, a program called an interpreter, which you downloaded together with Python, reads through your file line by line, and executes each line of code. This is different than languages like C or Java, which need to be compiled into machine code before they can be run. 
+P 
+P Variables
+P A key part of any programming language is the ability to create and manipulate variables. In order to assign a value to a variable in Python, the syntax looks like this:
+P 
+P a = 28
+P b = 1.5
+P c = "Hello!"
+P d = True
+P e = None
+P 
+P Each of these line is taking the value to the right of the = and storing it in the variable name to the left. 
+P 
+P Unlike in some other programming languages, Python variable types are inferred, meaning that while each variable does have a type, we do not have to explicitly state which type it is when we create the variable. If we however need to specify what type of data type a value to a variable or a portion of an expression we can cast or data type cast on that portion of data just to be sure that there aren't any descrepencies or conflicts. Some of the most common variable types are
+P 
+P int: and integer
+P float: a decimal number
+P chr: A single character
+P str: S string, or sequence of characters
+P bool: A values that is either True or False
+P NoneType: A special value, none, indicating the absence of a value. 
+P 
+P Now, we'll work on writing a more interesing program that can take the inpur from the user and say hello to that user. To do this we'll use another build in function called input, which displays a prompt to the user, and returns whatever the user provides as input. For example, we can write the following in a file called name.py
+P 
+P # see code
+P Awesome, when we run this code it works as expected and it does the thing that we are wanting it to do. A couple of things to point out,
+P - In the first line, instead of assigning the variable name to an explicit value, we're assigning it to whatever the input function returns. 
+P - In the second line, we're using the + operator to combine, or concatenate, two strings. In Python the + operator can be used to add numbers or concatenate strings and lists. 
+P 
+P Formatting Strings
+P - while we can use the + operator to combine strings as we did above, in the latest versions of python, there are even easier ways to work with strings, known as formatted strings, or f-strings for short. 
+P - to indicate that we're using formatted strings, we simply add an f before the quotation marks. For example, instead of using "Hello, " + name we could write f"Hello", {name}" for the same result. We can even plug a function into this string if we want and turn our program above into a single line
+P 
+P Conditions
+P Just like in other programming languages, Python gives us the ability to run different segments of code based on different conditions. For example, in the program below, we'll change our output depending on the number a user types in:
+P # see code
+P 
+P - Getting into how the above program works, conditionals in python contain a keywork if, else, elif and then except in the else case, a boolean expression, or an expression that evaluated to either True or False. Then, all of the code we want to run if a certain expression is true is indented directly below the statement. Indentation is requires as part of the Python syntax
+P - However when we run this program, we run into an exception, meaning the interpreter throws an error and says that the operator > not supported between instances of 'str' and 'int'
+P 
+P - An exception is what happens when an error occurs while we're running our python code, and over time you'll get better and better at figuring out these errors, this is known as debugging. Which is a valuable skill set to have in a variatey of situations. 
+P - Let's looks a bit more closely at this specific exception. If we look at the bottom we'll see that we ran into a TypeError, which generally means Python expected a certain variable to be of one type, but found it to be of another type. In this case, the exception tells us that we cannot use the > symbol to compare a str and int, and then above we can see that this comparison occurs in line 2
+P - In this case, it's obvious that 0 is an integer, so it must be the case that our num variable is a string. This is happening because it turns out that the input function always returns a string, and we have to specify that it should be turned into (or cast into) an integer using the int function. This means our first line would now look like
+P 
+P Data Structures / Sequences
+P One of the most powerful parts of Python is it's ability to work with sequences of data in addition to individual variables. 
+P 
+P There are several types of sequences that are similar in some ways, but different in others. When explaining those differences we'll use the terms mutable/immutable and ordered/unordered. Mutable means that once a sequence has been defined, we can change individual elements of that sequence, and ordered means that the order of the objects matters. 
+P 
+P Strings
+P Ordered: YES
+P Mutable: No
+P 
+P We've already looked at strings a little but, but instead of just variables, we can think of a string as a sequence of characters. This means we can access individual elements within the string! For example:
+P 
+P # see code
+P 
+P We can use the print(name[value:or-range]) syntax to parse a string from a position, to another position, and either successively, or non successively(every other, every two, every three etc...)
+P 
+P Lists
+P Ordered: YES
+P Mutable: YES
+P 
+P A Python List allows you to store any variable types. We create a list using square brackets and commas, as shown below. Similarly to strings, we can print an entire list, or some individual elements. We can also add elemets to a list using append, and sort a list using sort. 
+P 
+P # see code
+P 
+P Tuples
+P Ordered: YES
+P Mutable: N/A
+P 
+P Tuples are generally used when you need to store just two or three values together, such as the x and y values for a point. In Python code, we use parentheses:
+P 
+P # see code
+P 
+P Sets
+P Ordered: NO
+P Mutable: N/A
+P 
+P Sets are different from lists and tuples in that they are unordered. They are also different because while you can have two or more of the same elements within a list/tuple, a set will only store each value once. We can define an empty set using the set function. We can then use add and remove to add and remove elements from that set, and the len function to find the set's size. Note that the len function works on all sequences in python. Also note that despite adding 4 and 3 to the set twice, each item can only appear once in a set. 
+P 
+P # see code
+P 
+P Notice, that if you attempt to add the same value more than once, when you print out the contents of the set that value will only appear once, this is based on the definition of a set being an unordered collection of strictly unique objects.
+P 
+P Dictionaries
+P Ordered: NO
+P Mutable: YES
+P 
+P Python Dictionaries or dict, will be especially useful in this course. A Dictionary is a set of key-value pairs, where each key has a corresponding value, just like in a dictionary, each word(the key) has a corresponding definition(the value). In Python, we use curly brackets to contain a dictionary, and colons to indicate keys and values. For example:
+P 
+P # see code
+P 
+P Intro to Loops
+P Loops are an incredibly important part of any programming language, and in Python, they come in two main forms, For loops and while loops. For now, we'll focus on For loops. For loops are used to iterate over a sequence of elements, performing some block of code (indented below) for each element in a sequence. For example, the following code will print the numbers, 0 to 5
+P 
+P # see code
+P 
+P We can condense this code using the range function, which allows us to easily get a sequence of numbers. The following gives the exact same result as our code from above
+P 
+P This type of loop can work for any sequence! For example, if we wish to print each name in a list, we could write the code below:
+P 
+P # see code
+P 
+P Functions
+P We've already seen a few python functions such as print and input, but now we're going to dive into writing our own functions. To get started, we'll write a function that takes ina number and squares it. 
+P 
+P # see code
+P 
+P Notice how we use the def keyword to indicate we're defining a function, that we're taking in a single input called x and that we use the return keyword to indicate what the functions output should be. 
+P we can then "call" this function just as we've called other ones: using parentheses:
+P 
+P # see code
+P 
+P Modules
+P as our projects get larger and larger, it will become useful to be able to write functions in one file and run them in another. In the case above, we could create one file called functinos.py with the code, to do this we can inport functions from other files as a module. 
+P 
+P here is the script 
+P 
+P # here we are going to write that same function in a seperate file and then import that file as a module, thereby inheriting its functionality
+P 
+P from square import square
+P 
+P for i in range(10):
+P print(f"The square of {i}, is {square(i)}")
+P 
+P here is the file from which the function was imported
+P def square(x):
+P return x * x
+P 
+P you are also able to import all of the functions in a file by just typing 
+P 
+P import <name of file> but then the code in the script would have to call square.square in my case
+P 
+P 
+P import square
+P 
+P for i in range(10):
+P print(f"The square of {i}, is {square.square(i)}")
+P 
+P Object-Oriented Programming
+P object oriented programming is a programming paradigm, or a way of thinking about programming, that is centered around objects that can store information and perfom actions. 
+P 
+P - Classes: We've already seen a few different types of variables in python, but what if we want to create our own type? A Python Class is essentially a template for a new type of object that can store information and perform actions. Here's a class that defines a two-dimensional point:
+P 
+P # see code
+P 
+P Note that in the above code, we use the keyword self to represent the object we are currently working with. self should be the first argument for any method within a Python class
+P 
+P Now let's see how we can actually use the class from above to create an object:
+P 
+P # see code
+P 
+P Now let's look at a more interesting example where instead of storing just the coordinates of a Point, we create a class that represents an airline flight
+P 
+P # see code
+P 
+P However, this class is flawed because while we set a capacity, we could still add too many passengers. Let's augment it so that before adding a passenger, we check to see if there is room on the flight. 
+P 
+P Note that above, we use the line if not self.open_seats() to determine whether or not there are open seats. This works because in Python, the number 0 can be interpretted as meaning False, and we can also use the keyword not to signify the opposite of the following statement so not True is False and not False is True. Therefor, of open_seats returns 0, the entire expression will evaluate to True. 
+P 
+P Now let's try out the class we've created by instantiating some objects:
+P 
+P # see code
+P 
+P functions that operate on themselves, are also known as methods. 
+P 
+P We can think about classes as our way of creating a new data type within python almost. As there are tuples, and sets,and dicts built in, we can define our own types of logic and data types with a Class, these are generally what encompases related functions, so it's also a way to package functions. 
+P 
+P We can think of a class as a template for a type of object. 
+P 
+P all functions that operate on objects themselves are known as methods, and are always going to take the first argument as self.
+P 
+P Python has an ability to nest different types of data structures, a simple example of this is a list, of dictionaries.
+P 
+P # see code
+P 
+P Exception Handling
+P when python throws specific errors, we have a way of directing it to use some other code in the event a specific error happens, this is known as exception handling, where we are making an exception for an error in a specific instance. 
+P 
+P # see code line 226
+P 
+P If we divide by zero in this case with will get a ZeroDivisionError. Instead of displaying this error we would like for the shell to display something else.
+.
